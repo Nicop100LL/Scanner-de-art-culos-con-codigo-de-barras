@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Lector Código</string>
+    <string name="codigo">Código del producto</string>
+    <string name="nombre">Nombre del producto</string>
+    <string name="precio">Precio del producto</string>
+    <string name="boton_registrar">Registar</string>
+    <string name="boton_reset">Reset</string>
+    <string name="boton_buscar">Buscar</string>
+    <string name="boton_modificar">Modificar</string>
+    <string name="boton_eliminar">Eliminar</string>
+    <string name="btnSuma">Sumar</string>
+    <string name="totalString">TOTAL</string>
+
+    <string name="codigo_txt">Código:</string>
+    <string name="descripcion_txt">Descripción:</string>
+    <string name="precio_txt">Precio $</string>
+
+    <string name="boton_scaner">scanear</string>
+</resources>
